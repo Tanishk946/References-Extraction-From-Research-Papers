@@ -1,0 +1,94 @@
+1.)    E A      S H  
+
+2.)     
+
+3.)     
+
+4.)  and   Ensemble PDP  Eight 
+
+principles for distributed portals   in JCDL    
+
+5.) pp    ACM    
+
+6.)    S J Pan and   A survey on transfer 
+
+learning   Knowledge and Data Engineering   EEE 
+
+Transactions on  vol    pp    Oct   
+
+7.)      and   Using wikipedia 
+
+for coclustering based crossdomain text 
+
+classification   in Data Mining    ICDM   
+
+8.) Eighth IEEE International Conference on  
+
+pp    Dec   
+
+9.)    and   Text categorization with 
+
+knowledge transfer from heterogeneous data sources   
+
+in Proceedings of the rd National Conference on 
+
+10.) Artificial Intelligence  pp      
+
+11.)      H   E A   and 
+
+  Categorization of computing education 
+
+resources with utilization of crowdsourcing   in JCDL 
+
+12.)    pp    ACM    
+
+13.)     GR Xue   and   Transferring 
+
+naive bayes classifiers for text classification   in 
+
+Proceedings of the Nd National Conference on 
+
+14.) Artificial Intelligence  Volume   AAAT    
+
+pp      
+
+15.)    and   Feature generation 
+
+for text categorization using world knowledge   in 
+
+Proceedings of the th International Joint Conference 
+
+16.) on Artificial Intelligence  IJCAI    pp    
+
+  
+
+17.)      Readings in information retrieval   
+
+ch  An Algorithm for Suffix Stripping  pp    
+
+   
+
+18.)    
+
+19.)    M Dash and   Feature selection for 
+
+classification   vol    no    
+
+  pp        
+
+20.)      and   Feature 
+
+selection  perceptron learning  and a usability case 
+
+study for text categorization   SIGIR Forum  vol    
+
+21.) pp    July   
+
+22.)    and   Estimating continuous 
+
+distributions in bayesian classifiers   in 
+
+Conference on Uncertainty in Artificial Intelligence  
+
+23.)   pp       
+
